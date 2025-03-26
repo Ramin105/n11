@@ -239,9 +239,12 @@ header {
   }
 }
 .two {
-  margin-top: 25px;
+  margin-top: 125px;
   display: flex;
   flex-direction: column;
+  h4{
+    color: black;
+  }
 }
 .teklif {
   background-color: $maincolor;
